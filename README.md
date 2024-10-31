@@ -1,6 +1,6 @@
-# McKMail - Kotlin Email Client
+# MockMail - Kotlin Email Client
 
-McKMail is a Kotlin-based email client designed to make email debugging easy and efficient. By integrating Mockmail's virtual SMTP server, developers can simulate email sending without actually delivering emails to their intended recipients. Instead, all outgoing emails are captured in a single virtual inbox, allowing for comprehensive testing and debugging.
+MockMail is a Kotlin-based email client designed to make email debugging easy and efficient. By integrating Mockmail's virtual SMTP server, developers can simulate email sending without actually delivering emails to their intended recipients. Instead, all outgoing emails are captured in a single virtual inbox, allowing for comprehensive testing and debugging.
 
 ## Features
 - **Virtual SMTP Server Support**: Easily configure Mockmail’s virtual SMTP server to capture all outgoing emails in one inbox, regardless of the recipient.
